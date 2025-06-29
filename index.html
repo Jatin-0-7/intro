@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>MPEG-DASH Player</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.11/shaka-player.compiled.min.js"></script>
+  <style>
+    body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    video { width: 90vw; height: 90vh; background: #000; }
+  </style>
+</head>
+<body>
+
+  <video id="video" autoplay controls></video>
+
+  <script>
+    async function initPlayer() {
+      const video = document.getElementById('video');
+      const player = new shaka.Player(video);
+
+      // Optional: Listen for errors
+      player.addEventListener('error', (e) => console.error('Shaka error:', e));
+
+      // Load your DASH manifest (.mpd)
+      const mpdUrl = "https://raw.githubusercontent.com/Jatin-0-7/intro/main/eiltebeam.mpd"; // Replace if hosted elsewhere
+
+      try {
+        await player.load(mpdUrl);
+        console.log("Video loaded successfully!");
+      } catch (e) {
+        console.error("Error loading video:", e);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', initPlayer);
+  </script>
+
+</body>
+</html>
