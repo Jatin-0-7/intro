@@ -1,0 +1,60 @@
+
+#EXTINF:-1 tvg-id="ts1498" tvg-name="CNN News18" tvg-language="Hindi" tvg-logo="https://static.vidgyor.com/live/cnn_news18.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", CNN News18
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1498&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1499" tvg-name="News18 India" tvg-language="Hindi" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/News18-INDIA_LOGO_WEB_NEW_2.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 India
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1499&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1506" tvg-name="News18 Lokmat" tvg-language="Hindi" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/logo/lokmat.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Lokmat
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1506&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1505" tvg-name="News18 Rajasthan" tvg-language="Hindi" tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/rajasthan/raja-for-web.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Rajasthan
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1505&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1504" tvg-name="News18 Bihar Jharkhand" tvg-language="Hindi" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-bihar.gif" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Bihar Jharkhand
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1504&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1503" tvg-name="News18 Uttar Pradesh Uttarakhand" tvg-language="Hindi" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-up-uk-for-web.gif" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Uttar Pradesh Uttarakhand
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1503&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1502" tvg-name="News18 Madhya Pradesh Chhattisgarh" tvg-language="Hindi" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-chhattisgarh.gif" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Madhya Pradesh Chhattisgarh
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1502&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1501" tvg-name="News18 Punjab Haryana Himachal" tvg-language="Punjabi" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/news18-punjab-haryana-himachal.gif" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Punjab Haryana Himachal
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1501&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1507" tvg-name="News18 Bangla" tvg-language="Bangla" tvg-logo="https://img01.ibnlive.in/ibnkhabar/uploads/assests/news18-bengali/images/news18-bangla-web.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Bangla
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1507&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1510" tvg-name="News18 Odia" tvg-language="Odia" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/12/news18-odia-1.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Odia
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1510&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1508" tvg-name="News18 Gujarati" tvg-language="Gujarati" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-gujarati-web.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Gujarati
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1508&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1500" tvg-name="News18 Urdu" tvg-language="Urdu" tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/urdu/urdu-for-web.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Urdu
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1500&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1513" tvg-name="News18 Assam North East" tvg-language="Assamese" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/nw18assam-new.gif" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Assam North East
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1513&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1509" tvg-name="News18 Kannada" tvg-language="Kannada" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Kannada
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1509&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1511" tvg-name="News18 Tamil" tvg-language="Tamil" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-tamil-nadu-tv.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Tamil
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1511&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1512" tvg-name="News18 Malayalam" tvg-language="Malyalam" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/news18-kerala-tv-new.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Malayalam
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1512&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts3165" tvg-name="News18 Marathi" tvg-language="Marathi" tvg-logo="https://images.news18.com/stgrevamp-ibnlokmat/uploads/2024/11/News18Marathi-copy-2024-11-bbdda4225a9514c2ec384a27e66ed68a.png" group-title="Viacom18âš¡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 Marathi
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=3165&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1495" tvg-name="CNBC TV18" tvg-language="English" tvg-logo="https://static.vidgyor.com/live/midroll/assets/cnbctv18.jpg" group-title="Viacom18âš¡Business" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", CNBC TV18
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1495&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1496" tvg-name="CNBC Awaaj" tvg-language="Hindi" tvg-logo="https://static.vidgyor.com/live/midroll/assets/cnbcawaaz.jpg" group-title="Viacom18âš¡Business" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", CNBC Awaaj
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1496&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+
+#EXTINF:-1 tvg-id="ts1497" tvg-name="CNBC Bazaar" tvg-language="Hindi" tvg-logo="https://static.vidgyor.com/live/midroll/assets/cnbcbazaar.jpg" group-title="Viacom18âš¡Business" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", CNBC Bazaar
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1497&uid=7593744110&pass=abff31ce|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
