@@ -1,26 +1,19 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=TkYzbDU5OS94TjZEUHhwVVNwM0JhaEhpY1B6VEl6Wk96OUZKeDVXVm5oRDI3UnJENk1TUGtQVDZQWUdiRVc2OG1EL21GOGE3V081U0c5VThFaTFGMmc9PQ==
 
-
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment",SONY SAB (Airtel)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=sonysab
-#EXTVLCOPT:http-user-agent=third-party
-https://mix.drmlive.net/mix/engsonysab.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-language="Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Tataplay🎭Kids" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", Disney
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.jokerverse.workers.dev/keys.json?id=114&contentId=400000119&uid=8282574408&pass=3782c86d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/eng_key.php?id=colors
-#EXTINF:-1 tvg-id=ts1256 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/2560px-Colors_TV_logo.svg.png" group-title="Movie",Colors HD (Astro)
-#EXTVLCOPT:http-user-agent=user-agent Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://mix.drmlive.net/mix/engcolors.mpd
+https://tataplay.jokerverse.workers.dev/manifest.mpd?id=114&uid=8282574408&pass=3782c86d|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
 
 
-#EXTINF:-1 tvg-id="144" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Entertainment", Colors HD hot
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
-https://mix.drmlive.net/mix/jc-144.m3u8
+#EXTINF:-1 tvg-id="ts1498" tvg-name="CNN News18" tvg-language="Hindi" tvg-logo="https://static.vidgyor.com/live/cnn_news18.png" group-title="Viacom18⚡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", CNN News18
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1498&uid=8282574408&pass=3782c86d|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"
+
+#EXTINF:-1 tvg-id="ts1499" tvg-name="News18 India" tvg-language="Hindi" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/News18-INDIA_LOGO_WEB_NEW_2.png" group-title="Viacom18⚡News" group-logo="https://lamhas.com/wp-content/uploads/2022/06/1-3.png", News18 India
+https://viacom18.joker-verse.workers.dev/index.m3u8?id=1499&uid=8282574408&pass=3782c86d|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"
+
+
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JioTV📺Entertainment" group-logo="https://play-lh.googleusercontent.com/jzbM6msuulcguWO8yfhZb9I0gGXF3gecHY0fULSQkuTDa6PP-b727XZydKgKhKLSPf57=s96-rw", Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=a2e6b0a942275a9a9e17321e8b5a3034&key=15bf2488b7baca5ae8f038f582ea5553
+https://jiotv.joker-verse.workers.dev/live/index.mpd?id=167&uid=8282574408&pass=3782c86d|User-Agent="plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"
