@@ -1,1 +1,7 @@
-cc
+#EXTINF:-1 tvg-id="sony-max-1" tvg-name="Sony MAX 1" tvg-language="Hindi" tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="SonyLiv🎶Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sundirectgo.joker-verse.workers.dev/widevine?uid=7809089961&pass=5417b16f
+#EXTVLCOPT:http-user-agent=@joker_verse
+https://sundirectgo.joker-verse.workers.dev/joker.mpd?id=src89&uid=1135294510&pass=44658c43
+
+
