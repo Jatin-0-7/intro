@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-id="sony-max-1" tvg-name="Sony MAX 1" tvg-language="Hindi" tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="SonyLiv🎶Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX 1
-#EXTVLCOPT:http-user-agent=@joker_verse
-https://sundirectgo.joker-verse.workers.dev/joker.mpd?id=src89&uid=1135294510&pass=44658c43?|LicenseURL=https://sundirectgo.joker-verse.workers.dev/widevine?uid=7809089961&pass=5417b16f
-
-
+#EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="JIO TV+ | Entertainment",Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/jplus/key.php?id=3088&token=KzMUmIk8834H
+https://m3u.ygxworld.in/jplus/index.mpd?id=3088&token=KzMUmIk8834H|User-Agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="3089" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangam_TV.png" group-title="JIO TV+ | Devotional",Sangam TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/jplus/key.php?id=3089&token=KzMUmIk8834H
+https://m3u.ygxworld.in/jplus/index.mpd?id=3089&token=KzMUmIk8834H|User-Agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
